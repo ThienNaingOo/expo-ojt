@@ -12,7 +12,7 @@ export default function App() {
     //   <Pan />
     // </GestureHandlerRootView>
     <View style={styles.container}>
-      <Parent/>
+      <Home/>
     </View>
   );
 }
