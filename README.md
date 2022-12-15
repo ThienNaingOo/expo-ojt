@@ -1,6 +1,6 @@
 # expo-ojt
 
-**URL**
+- **URL**
 ```
 localhost:3000/add/[number]/[number]
 
@@ -11,12 +11,12 @@ localhost:3000/multiply/[number]/[number]
 localhost:3000/divide/[number]/[number]
 ```
 
-**Method**
+- **Method**
 
 `GET`
 
 
-**Installation**
+- **Installation**
 ```
 git clone https://github.com/ThienNaingOo/expo-ojt.git
 cd tutorial02
